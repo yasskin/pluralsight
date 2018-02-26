@@ -57,20 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\bootstrap-theme.css" />
-    <Content Include="Content\bootstrap-theme.min.css" />
-    <Content Include="Content\bootstrap.css" />
-    <Content Include="Content\bootstrap.min.css" />
-    <Content Include="fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="packages.config" />
-    <Content Include="fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Scripts\jquery-1.9.1.js" />
-    <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="styling-02\after\styling-02.css" />
     <Content Include="styling-02\after\styling-02.html" />
     <Content Include="styling-02\before\styling-02.css" />
@@ -104,7 +91,60 @@
     <Content Include="styling-09\before\styling.css" />
     <Content Include="styling-09\before\styling.html" />
     <Content Include="Web.config" />
-    <Content Include="Scripts\jquery-1.9.1.min.map" />
+    <Content Include="packages.config" />
+    <None Include="Scripts\umd\popper.min.js.map" />
+    <Content Include="Scripts\umd\popper.min.js" />
+    <None Include="Scripts\umd\popper.js.map" />
+    <Content Include="Scripts\umd\popper.js" />
+    <None Include="Scripts\umd\popper-utils.min.js.map" />
+    <Content Include="Scripts\umd\popper-utils.min.js" />
+    <None Include="Scripts\umd\popper-utils.js.map" />
+    <Content Include="Scripts\umd\popper-utils.js" />
+    <None Include="Scripts\README.md" />
+    <None Include="Scripts\popper.min.js.map" />
+    <Content Include="Scripts\popper.min.js" />
+    <None Include="Scripts\popper.js.map" />
+    <Content Include="Scripts\popper.js" />
+    <None Include="Scripts\popper-utils.min.js.map" />
+    <Content Include="Scripts\popper-utils.min.js" />
+    <None Include="Scripts\popper-utils.js.map" />
+    <Content Include="Scripts\popper-utils.js" />
+    <None Include="Scripts\index.d.ts" />
+    <None Include="Scripts\esm\popper.min.js.map" />
+    <Content Include="Scripts\esm\popper.min.js" />
+    <None Include="Scripts\esm\popper.js.map" />
+    <Content Include="Scripts\esm\popper.js" />
+    <None Include="Scripts\esm\popper-utils.min.js.map" />
+    <Content Include="Scripts\esm\popper-utils.min.js" />
+    <None Include="Scripts\esm\popper-utils.js.map" />
+    <Content Include="Scripts\esm\popper-utils.js" />
+    <None Include="Scripts\bootstrap.min.js.map" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Scripts\bootstrap.js.map" />
+    <Content Include="Scripts\bootstrap.js" />
+    <None Include="Scripts\bootstrap.bundle.min.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <None Include="Scripts\bootstrap.bundle.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.js" />
+    <None Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.min.css" />
+    <None Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap.css" />
+    <None Include="Content\bootstrap-reboot.min.css.map" />
+    <Content Include="Content\bootstrap-reboot.min.css" />
+    <None Include="Content\bootstrap-reboot.css.map" />
+    <Content Include="Content\bootstrap-reboot.css" />
+    <None Include="Content\bootstrap-grid.min.css.map" />
+    <Content Include="Content\bootstrap-grid.min.css" />
+    <None Include="Content\bootstrap-grid.css.map" />
+    <Content Include="Content\bootstrap-grid.css" />
+    <None Include="Scripts\jquery-3.3.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.js" />
+    <None Include="Scripts\jquery-3.3.1.min.map" />
+    <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="Scripts\jquery-3.3.1-vsdoc.js" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -142,6 +182,11 @@
         </WebProjectProperties>
       </FlavorProperties>
     </VisualStudio>
+    <MonoDevelop>
+      <Properties>
+        <XspParameters Port="8080" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
+      </Properties>
+    </MonoDevelop>
   </ProjectExtensions>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
