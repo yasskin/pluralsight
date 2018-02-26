@@ -1,0 +1,11 @@
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.deps.json
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.runtimeconfig.json
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.runtimeconfig.dev.json
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.dll
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.pdb
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.csproj.CoreCompileInputs.cache
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.AssemblyInfoInputs.cache
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.AssemblyInfo.cs
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.dll
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.pdb
+/Users/yasskin/Documents/dev/pluralsight/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.csprojResolveAssemblyReference.cache
